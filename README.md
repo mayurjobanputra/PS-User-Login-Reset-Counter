@@ -1,4 +1,4 @@
-# PS-User-Login-Reset-Counter
+# PS User Login Plugin - Counter reset script
 
 A handy script to help reset the login count counter for PS User Login Count plugin
 
